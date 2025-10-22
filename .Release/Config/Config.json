@@ -1,0 +1,46 @@
+{
+  "HttpServer": {
+    "BindAddress": "0.0.0.0",
+    "PublicAddress": "127.0.0.1",
+    "Port": 80
+  },
+  "GameServer": {
+    "BindAddress": "0.0.0.0",
+    "PublicAddress": "127.0.0.1",
+    "Port": 21000,
+    "KcpAliveMs": 45000,
+    "DatabaseName": "kiana.db",
+    "GameServerId": "KianaBH",
+    "GameServerName": "KianaBH"
+  },
+  "Path": {
+    "ResourcePath": "Resources",
+    "ConfigPath": "Config",
+    "DatabasePath": "Config/Database",
+    "HandbookPath": "Config/Handbook",
+    "LogPath": "Config/Logs",
+    "DataPath": "Config/Data"
+  },
+  "ServerOption": {
+    "Language": "EN",
+    "FallbackLanguage": "EN",
+    "DefaultPermissions": [
+      "Admin"
+    ],
+    "ServerProfile": {
+      "Name": "Server",
+      "Uid": 80,
+      "AvatarId": 3201,
+      "DressId": 593201,
+      "FrameId": 200001,
+      "HeadId": 161080
+    },
+    "AutoCreateUser": true,
+    "SavePersonalDebugFile": false,
+    "AutoSendResponseWhenNoHandler": false,
+    "EnableDebug": true,
+    "DebugMessage": true,
+    "DebugDetailMessage": true,
+    "DebugNoHandlerPacket": true
+  }
+}
