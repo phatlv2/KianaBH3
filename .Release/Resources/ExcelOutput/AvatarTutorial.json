@@ -1,0 +1,2570 @@
+[
+  {
+    "_readOffset": 520,
+    "DataImpl": {},
+    "ActivityID": 40000085,
+    "AvatarID": 705,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81814942
+    },
+    "SiteList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "AvatarImgOffset": [
+      -100.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18
+    ],
+    "EntryWeight": 421,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 637,
+    "DataImpl": {},
+    "ActivityID": 40000086,
+    "AvatarID": 802,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81814943
+    },
+    "SiteList": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "AvatarImgOffset": [
+      -52.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 1700,
+    "GachatypeList": [
+      5,
+      18
+    ],
+    "EntryWeight": 390,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 758,
+    "DataImpl": {},
+    "ActivityID": 40000087,
+    "AvatarID": 506,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81814944
+    },
+    "SiteList": [
+      14,
+      15,
+      16
+    ],
+    "AvatarImgOffset": [
+      -72.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 1040,
+    "GachatypeList": [
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 400,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 875,
+    "DataImpl": {},
+    "ActivityID": 40000088,
+    "AvatarID": 205,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81814945
+    },
+    "SiteList": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      254
+    ],
+    "AvatarImgOffset": [
+      -100.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 1370,
+    "GachatypeList": [
+      31,
+      5,
+      18
+    ],
+    "EntryWeight": 410,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 1000,
+    "DataImpl": {},
+    "ActivityID": 40000117,
+    "AvatarID": 202,
+    "ArtifactPath": "SpriteOutput/AvatarCardIcons/202_05_02",
+    "TitleName": {
+      "hash": 81815688
+    },
+    "SiteList": [
+      24,
+      25,
+      26
+    ],
+    "AvatarImgOffset": [
+      -80.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 1040,
+    "GachatypeList": [],
+    "EntryWeight": 420,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 1139,
+    "DataImpl": {},
+    "ActivityID": 40000118,
+    "AvatarID": 422,
+    "ArtifactPath": "SpriteOutput/AvatarCardIcons/60422_05_01",
+    "TitleName": {
+      "hash": 81815689
+    },
+    "SiteList": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "AvatarImgOffset": [
+      -52.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18
+    ],
+    "EntryWeight": 430,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 1296,
+    "DataImpl": {},
+    "ActivityID": 40000119,
+    "AvatarID": 803,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815690
+    },
+    "SiteList": [
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "AvatarImgOffset": [
+      -75.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18
+    ],
+    "EntryWeight": 440,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 1413,
+    "DataImpl": {},
+    "ActivityID": 40000120,
+    "AvatarID": 901,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815712
+    },
+    "SiteList": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "AvatarImgOffset": [
+      -82.0,
+      20.0
+    ],
+    "MissionList": [],
+    "Width": 1370,
+    "GachatypeList": [],
+    "EntryWeight": 450,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 1518,
+    "DataImpl": {},
+    "ActivityID": 40000130,
+    "AvatarID": 612,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815743
+    },
+    "SiteList": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "AvatarImgOffset": [
+      -52.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 1700,
+    "GachatypeList": [
+      5,
+      18
+    ],
+    "EntryWeight": 460,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 1639,
+    "DataImpl": {},
+    "ActivityID": 40000131,
+    "AvatarID": 314,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815744
+    },
+    "SiteList": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "AvatarImgOffset": [
+      -62.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 1370,
+    "GachatypeList": [
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 470,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 1760,
+    "DataImpl": {},
+    "ActivityID": 40000133,
+    "AvatarID": 713,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815746
+    },
+    "SiteList": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "AvatarImgOffset": [
+      -80.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 1700,
+    "GachatypeList": [
+      5,
+      18
+    ],
+    "EntryWeight": 480,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 1881,
+    "DataImpl": {},
+    "ActivityID": 40000134,
+    "AvatarID": 2101,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815747
+    },
+    "SiteList": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "AvatarImgOffset": [
+      -80.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 1370,
+    "GachatypeList": [
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 490,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 2002,
+    "DataImpl": {},
+    "ActivityID": 40000135,
+    "AvatarID": 704,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815748
+    },
+    "SiteList": [
+      69,
+      70,
+      71,
+      72
+    ],
+    "AvatarImgOffset": [
+      -100.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 1040,
+    "GachatypeList": [
+      5,
+      18
+    ],
+    "EntryWeight": 290,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 2115,
+    "DataImpl": {},
+    "ActivityID": 40000136,
+    "AvatarID": 313,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815749
+    },
+    "SiteList": [
+      74,
+      75,
+      76,
+      255
+    ],
+    "AvatarImgOffset": [
+      -100.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 1040,
+    "GachatypeList": [
+      5,
+      18
+    ],
+    "EntryWeight": 471,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 2228,
+    "DataImpl": {},
+    "ActivityID": 40000137,
+    "AvatarID": 712,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815750
+    },
+    "SiteList": [
+      78,
+      79,
+      80
+    ],
+    "AvatarImgOffset": [
+      -110.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 710,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 350,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 2353,
+    "DataImpl": {},
+    "ActivityID": 40000138,
+    "AvatarID": 112,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815751
+    },
+    "SiteList": [
+      82,
+      83
+    ],
+    "AvatarImgOffset": [
+      -100.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 710,
+    "GachatypeList": [],
+    "EntryWeight": 190,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 2450,
+    "DataImpl": {},
+    "ActivityID": 40000139,
+    "AvatarID": 801,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815752
+    },
+    "SiteList": [
+      85,
+      86
+    ],
+    "AvatarImgOffset": [
+      -55.0,
+      -14.0
+    ],
+    "MissionList": [],
+    "Width": 710,
+    "GachatypeList": [],
+    "EntryWeight": 380,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 2547,
+    "DataImpl": {},
+    "ActivityID": 40000140,
+    "AvatarID": 105,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815774
+    },
+    "SiteList": [
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "AvatarImgOffset": [
+      -90.0,
+      -10.0
+    ],
+    "MissionList": [],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18
+    ],
+    "EntryWeight": 500,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 2664,
+    "DataImpl": {},
+    "ActivityID": 40000142,
+    "AvatarID": 2201,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815776
+    },
+    "SiteList": [
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "AvatarImgOffset": [
+      -75.0,
+      -27.0
+    ],
+    "MissionList": [],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18
+    ],
+    "EntryWeight": 510,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 2781,
+    "DataImpl": {},
+    "ActivityID": 40000143,
+    "AvatarID": 203,
+    "ArtifactPath": "SpriteOutput/AvatarCardIcons/60203_05_01",
+    "TitleName": {
+      "hash": 81815777
+    },
+    "SiteList": [
+      100,
+      101
+    ],
+    "AvatarImgOffset": [
+      -80.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 710,
+    "GachatypeList": [],
+    "EntryWeight": 291,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 2918,
+    "DataImpl": {},
+    "ActivityID": 40000144,
+    "AvatarID": 511,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815778
+    },
+    "SiteList": [
+      103,
+      104
+    ],
+    "AvatarImgOffset": [
+      -52.0,
+      0.0
+    ],
+    "MissionList": [],
+    "Width": 710,
+    "GachatypeList": [],
+    "EntryWeight": 240,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 3015,
+    "DataImpl": {},
+    "ActivityID": 40000147,
+    "AvatarID": 2301,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815781
+    },
+    "SiteList": [
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "AvatarImgOffset": [
+      -65.0,
+      20.0
+    ],
+    "MissionList": [
+      87591,
+      87592,
+      87593,
+      87594,
+      670234
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 521,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2021-09-23 08:00:00",
+    "TagEndTime": "2021-10-22 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 3206,
+    "DataImpl": {},
+    "ActivityID": 40000148,
+    "AvatarID": 2401,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815782
+    },
+    "SiteList": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "AvatarImgOffset": [
+      -113.0,
+      36.0
+    ],
+    "MissionList": [
+      87599,
+      87600,
+      87601,
+      87602
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 520,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2021-09-23 08:00:00",
+    "TagEndTime": "2021-10-22 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 3389,
+    "DataImpl": {},
+    "ActivityID": 40000149,
+    "AvatarID": 502,
+    "ArtifactPath": "SpriteOutput/AvatarCardIcons/60502_05_01",
+    "TitleName": {
+      "hash": 81815783
+    },
+    "SiteList": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "AvatarImgOffset": [
+      -65.0,
+      20.0
+    ],
+    "MissionList": [
+      670275
+    ],
+    "Width": 1040,
+    "GachatypeList": [],
+    "EntryWeight": 340,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 3538,
+    "DataImpl": {},
+    "ActivityID": 40000150,
+    "AvatarID": 2501,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815805
+    },
+    "SiteList": [
+      118,
+      119,
+      120,
+      121
+    ],
+    "AvatarImgOffset": [
+      -65.0,
+      0.0
+    ],
+    "MissionList": [
+      87607,
+      87608,
+      87609,
+      87610
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 530,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2021-11-04 08:00:00",
+    "TagEndTime": "2021-12-03 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 3721,
+    "DataImpl": {},
+    "ActivityID": 40000151,
+    "AvatarID": 315,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815806
+    },
+    "SiteList": [
+      122,
+      123,
+      124,
+      125,
+      126
+    ],
+    "AvatarImgOffset": [
+      -100.0,
+      -40.0
+    ],
+    "MissionList": [
+      87615,
+      87616,
+      87617,
+      87618,
+      671047
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 540,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2021-12-16 08:00:00",
+    "TagEndTime": "2022-01-07 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 3912,
+    "DataImpl": {},
+    "ActivityID": 40000155,
+    "AvatarID": 804,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815810
+    },
+    "SiteList": [
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "AvatarImgOffset": [
+      -42.0,
+      -9.0
+    ],
+    "MissionList": [
+      87649,
+      87650,
+      87651,
+      87652,
+      671198,
+      87665
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 551,
+    "IsActivityEntry": false,
+    "TagBeginTime": "2022-01-27 08:00:00",
+    "TagEndTime": "2022-02-25 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 4107,
+    "DataImpl": {},
+    "ActivityID": 40000156,
+    "AvatarID": 706,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815811
+    },
+    "SiteList": [
+      132,
+      133,
+      134,
+      135,
+      136
+    ],
+    "AvatarImgOffset": [
+      -103.0,
+      -42.0
+    ],
+    "MissionList": [
+      87657,
+      87658,
+      87659,
+      87660,
+      671199,
+      87666
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 550,
+    "IsActivityEntry": false,
+    "TagBeginTime": "2022-01-27 08:00:00",
+    "TagEndTime": "2022-02-25 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 4302,
+    "DataImpl": {},
+    "ActivityID": 40000164,
+    "AvatarID": 711,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815840
+    },
+    "SiteList": [
+      137,
+      138,
+      139
+    ],
+    "AvatarImgOffset": [
+      -99.0,
+      38.0
+    ],
+    "MissionList": [],
+    "Width": 1040,
+    "GachatypeList": [],
+    "EntryWeight": 320,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 4403,
+    "DataImpl": {},
+    "ActivityID": 40000165,
+    "AvatarID": 302,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815841
+    },
+    "SiteList": [
+      140,
+      141,
+      142
+    ],
+    "AvatarImgOffset": [
+      -103.0,
+      -30.0
+    ],
+    "MissionList": [],
+    "Width": 1040,
+    "GachatypeList": [],
+    "EntryWeight": 300,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 4504,
+    "DataImpl": {},
+    "ActivityID": 40000166,
+    "AvatarID": 113,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815842
+    },
+    "SiteList": [
+      143,
+      144
+    ],
+    "AvatarImgOffset": [
+      -1.7999999523162842,
+      -14.600000381469727
+    ],
+    "MissionList": [],
+    "Width": 710,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 391,
+    "IsActivityEntry": false,
+    "TagBeginTime": "",
+    "TagEndTime": "",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 4625,
+    "DataImpl": {},
+    "ActivityID": 40000167,
+    "AvatarID": 2601,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815843
+    },
+    "SiteList": [
+      160,
+      161,
+      162,
+      163,
+      164
+    ],
+    "AvatarImgOffset": [
+      -3.0,
+      11.0
+    ],
+    "MissionList": [
+      87694,
+      87695,
+      87696,
+      87697,
+      671549,
+      87702
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 560,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2022-03-10 08:00:00",
+    "TagEndTime": "2022-04-08 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 4820,
+    "DataImpl": {},
+    "ActivityID": 40000168,
+    "AvatarID": 2801,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815844
+    },
+    "SiteList": [
+      165,
+      166,
+      167,
+      168,
+      211
+    ],
+    "AvatarImgOffset": [
+      -65.0,
+      -32.0
+    ],
+    "MissionList": [
+      87711,
+      87712,
+      87713,
+      87714,
+      87724
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 570,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2022-04-21 08:00:00",
+    "TagEndTime": "2022-05-20 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 5011,
+    "DataImpl": {},
+    "ActivityID": 40000169,
+    "AvatarID": 2701,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815845
+    },
+    "SiteList": [
+      169,
+      170,
+      171,
+      172,
+      173
+    ],
+    "AvatarImgOffset": [
+      -86.0,
+      -36.0
+    ],
+    "MissionList": [
+      87707,
+      87708,
+      87709,
+      87710,
+      671775,
+      87723
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 571,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2022-04-21 08:00:00",
+    "TagEndTime": "2022-05-20 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 5206,
+    "DataImpl": {},
+    "ActivityID": 40000171,
+    "AvatarID": 2901,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815868
+    },
+    "SiteList": [
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "AvatarImgOffset": [
+      -34.0,
+      -32.0
+    ],
+    "MissionList": [
+      87736,
+      87737,
+      87738,
+      87739,
+      671847,
+      87744
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 581,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2022-06-02 08:00:00",
+    "TagEndTime": "2022-07-01 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 5401,
+    "DataImpl": {},
+    "ActivityID": 40000172,
+    "AvatarID": 3001,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815869
+    },
+    "SiteList": [
+      184,
+      185,
+      186,
+      187,
+      188
+    ],
+    "AvatarImgOffset": [
+      -59.0,
+      -32.0
+    ],
+    "MissionList": [
+      87747,
+      87748,
+      87749,
+      87750,
+      87755
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 591,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2022-07-14 08:00:00",
+    "TagEndTime": "2022-08-05 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 5592,
+    "DataImpl": {},
+    "ActivityID": 40000173,
+    "AvatarID": 2202,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815870
+    },
+    "SiteList": [
+      189,
+      190,
+      191,
+      192,
+      193,
+      327,
+      328,
+      329
+    ],
+    "AvatarImgOffset": [
+      -12.0,
+      -20.0
+    ],
+    "MissionList": [
+      689089,
+      689090
+    ],
+    "Width": 2030,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 601,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2025-01-23 07:00:00",
+    "TagEndTime": "2025-02-21 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 5783,
+    "DataImpl": {},
+    "ActivityID": 40000174,
+    "AvatarID": 3101,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815871
+    },
+    "SiteList": [
+      194,
+      195,
+      196,
+      197,
+      198
+    ],
+    "AvatarImgOffset": [
+      -34.0,
+      -32.0
+    ],
+    "MissionList": [
+      87772,
+      87773,
+      87774,
+      87775,
+      672688,
+      87780
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 610,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2022-09-29 08:00:00",
+    "TagEndTime": "2022-10-14 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 5978,
+    "DataImpl": {},
+    "ActivityID": 40000175,
+    "AvatarID": 3201,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815872
+    },
+    "SiteList": [
+      199,
+      200,
+      201,
+      202,
+      203
+    ],
+    "AvatarImgOffset": [
+      -35.0,
+      -37.0
+    ],
+    "MissionList": [
+      87789,
+      87790,
+      87791,
+      87792,
+      87798,
+      87797
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 621,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2022-11-10 08:00:00",
+    "TagEndTime": "2022-12-02 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 6173,
+    "DataImpl": {},
+    "ActivityID": 40000176,
+    "AvatarID": 317,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815873
+    },
+    "SiteList": [
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210
+    ],
+    "AvatarImgOffset": [
+      0.0,
+      -28.0
+    ],
+    "MissionList": [
+      87805,
+      87806,
+      87807,
+      87808,
+      87813
+    ],
+    "Width": 1700,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 631,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2022-12-15 08:00:00",
+    "TagEndTime": "2023-01-06 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 6372,
+    "DataImpl": {},
+    "ActivityID": 40000177,
+    "AvatarID": 206,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815874
+    },
+    "SiteList": [
+      212,
+      213,
+      214,
+      215,
+      216
+    ],
+    "AvatarImgOffset": [
+      20.0,
+      0.0
+    ],
+    "MissionList": [
+      87834,
+      87835,
+      87836,
+      87849,
+      87837,
+      87847
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27,
+      28
+    ],
+    "EntryWeight": 641,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2023-01-19 08:00:00",
+    "TagEndTime": "2023-02-17 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 6571,
+    "DataImpl": {},
+    "ActivityID": 40000178,
+    "AvatarID": 106,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815875
+    },
+    "SiteList": [
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      308,
+      309
+    ],
+    "AvatarImgOffset": [
+      -20.0,
+      0.0
+    ],
+    "MissionList": [
+      687527,
+      687528
+    ],
+    "Width": 1700,
+    "GachatypeList": [
+      4,
+      6,
+      15,
+      20,
+      31,
+      32,
+      38,
+      44,
+      45
+    ],
+    "EntryWeight": 642,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2024-09-19 07:00:00",
+    "TagEndTime": "2024-10-18 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 6774,
+    "DataImpl": {},
+    "ActivityID": 40000179,
+    "AvatarID": 3301,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815876
+    },
+    "SiteList": [
+      223,
+      224,
+      225,
+      226,
+      227
+    ],
+    "AvatarImgOffset": [
+      -27.399999618530273,
+      -9.600000381469727
+    ],
+    "MissionList": [
+      87878,
+      87879,
+      87880,
+      87871,
+      87881
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 651,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2023-03-09 08:00:00",
+    "TagEndTime": "2023-03-31 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 6965,
+    "DataImpl": {},
+    "ActivityID": 40000180,
+    "AvatarID": 3501,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815898
+    },
+    "SiteList": [
+      228,
+      229,
+      230,
+      231
+    ],
+    "AvatarImgOffset": [
+      -27.399999618530273,
+      -9.600000381469727
+    ],
+    "MissionList": [
+      87911,
+      87912,
+      87913,
+      87914,
+      87919
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 660,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2023-04-20 08:00:00",
+    "TagEndTime": "2023-05-19 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 7152,
+    "DataImpl": {},
+    "ActivityID": 40000181,
+    "AvatarID": 3401,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815899
+    },
+    "SiteList": [
+      232,
+      233,
+      234,
+      235
+    ],
+    "AvatarImgOffset": [
+      -27.399999618530273,
+      -9.600000381469727
+    ],
+    "MissionList": [
+      87900,
+      87901,
+      87902,
+      87903,
+      87908
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 661,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2023-04-20 08:00:00",
+    "TagEndTime": "2023-05-19 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 7339,
+    "DataImpl": {},
+    "ActivityID": 40000182,
+    "AvatarID": 3601,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815900
+    },
+    "SiteList": [
+      236,
+      237,
+      238,
+      239
+    ],
+    "AvatarImgOffset": [
+      -0.23000000417232513,
+      -11.0
+    ],
+    "MissionList": [
+      87932,
+      87933,
+      87934,
+      87935,
+      87940
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 671,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2023-06-01 08:00:00",
+    "TagEndTime": "2023-06-23 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 7526,
+    "DataImpl": {},
+    "ActivityID": 40000183,
+    "AvatarID": 714,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815901
+    },
+    "SiteList": [
+      240,
+      241,
+      242,
+      243,
+      244
+    ],
+    "AvatarImgOffset": [
+      -120.0,
+      -48.70000076293945
+    ],
+    "MissionList": [
+      87948,
+      87949,
+      87950,
+      87951,
+      87956
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 681,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2023-07-06 08:00:00",
+    "TagEndTime": "2023-08-04 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 7717,
+    "DataImpl": {},
+    "ActivityID": 40000184,
+    "AvatarID": 3701,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815902
+    },
+    "SiteList": [
+      245,
+      246,
+      247,
+      248
+    ],
+    "AvatarImgOffset": [
+      -58.70000076293945,
+      -32.79999923706055
+    ],
+    "MissionList": [
+      87974,
+      87975,
+      87976,
+      87977,
+      87982
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 691,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2023-08-17 08:00:00",
+    "TagEndTime": "2023-09-08 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 7904,
+    "DataImpl": {},
+    "ActivityID": 40000185,
+    "AvatarID": 507,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815903
+    },
+    "SiteList": [
+      249,
+      250,
+      251,
+      252,
+      253
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      87989,
+      87990,
+      87991,
+      87992,
+      87997
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 701,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2023-09-28 07:00:00",
+    "TagEndTime": "2023-10-27 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 8095,
+    "DataImpl": {},
+    "ActivityID": 40000186,
+    "AvatarID": 2902,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815904
+    },
+    "SiteList": [
+      256,
+      257,
+      258,
+      259,
+      260,
+      261
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      681431,
+      681432,
+      681433,
+      681434,
+      681439
+    ],
+    "Width": 1700,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 711,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2023-11-09 07:00:00",
+    "TagEndTime": "2023-12-01 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 8290,
+    "DataImpl": {},
+    "ActivityID": 40000187,
+    "AvatarID": 613,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815905
+    },
+    "SiteList": [
+      262,
+      263,
+      264,
+      265
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      681856,
+      681857,
+      681858,
+      681859,
+      681864
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 721,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2023-12-21 07:00:00",
+    "TagEndTime": "2024-01-19 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 8477,
+    "DataImpl": {},
+    "ActivityID": 40000188,
+    "AvatarID": 20201,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815906
+    },
+    "SiteList": [
+      266,
+      267,
+      268,
+      269,
+      270
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      682658,
+      682659,
+      682660,
+      682667,
+      682668,
+      682681
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 732,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2024-02-01 07:00:00",
+    "TagEndTime": "2024-03-01 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 8672,
+    "DataImpl": {},
+    "ActivityID": 40000189,
+    "AvatarID": 20301,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815907
+    },
+    "SiteList": [
+      271,
+      272,
+      273,
+      268,
+      269
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      682664,
+      682665,
+      682666,
+      682667,
+      682668,
+      682683
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 731,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2024-02-01 07:00:00",
+    "TagEndTime": "2024-03-01 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 8867,
+    "DataImpl": {},
+    "ActivityID": 40000190,
+    "AvatarID": 20401,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815929
+    },
+    "SiteList": [
+      274,
+      275,
+      276,
+      268,
+      269
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      682661,
+      682662,
+      682663,
+      682667,
+      682668,
+      682682
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27
+    ],
+    "EntryWeight": 730,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2024-02-01 07:00:00",
+    "TagEndTime": "2024-03-01 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 9062,
+    "DataImpl": {},
+    "ActivityID": 40000191,
+    "AvatarID": 20501,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815930
+    },
+    "SiteList": [
+      277,
+      278,
+      279,
+      280,
+      281,
+      282
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      683510,
+      683511,
+      683512,
+      683513,
+      683518
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      5,
+      18,
+      4,
+      16,
+      15,
+      27,
+      44,
+      45
+    ],
+    "EntryWeight": 741,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2024-03-28 07:00:00",
+    "TagEndTime": "2024-04-26 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 9265,
+    "DataImpl": {},
+    "ActivityID": 40000192,
+    "AvatarID": 20601,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815931
+    },
+    "SiteList": [
+      284,
+      285,
+      286,
+      287,
+      288,
+      289
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      685236,
+      685237,
+      685238,
+      685239,
+      685244
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      4,
+      6,
+      15,
+      20,
+      31,
+      32,
+      38,
+      44,
+      45
+    ],
+    "EntryWeight": 751,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2024-05-09 07:00:00",
+    "TagEndTime": "2024-06-07 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 9472,
+    "DataImpl": {},
+    "ActivityID": 40000193,
+    "AvatarID": 20701,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815932
+    },
+    "SiteList": [
+      290,
+      291,
+      292,
+      293,
+      295
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      685984,
+      685985,
+      685986,
+      685987,
+      685992
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      4,
+      6,
+      15,
+      20,
+      31,
+      32,
+      38,
+      44,
+      45
+    ],
+    "EntryWeight": 761,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2024-06-27 07:00:00",
+    "TagEndTime": "2024-07-26 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 9675,
+    "DataImpl": {},
+    "ActivityID": 40000194,
+    "AvatarID": 512,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815933
+    },
+    "SiteList": [
+      296,
+      297,
+      298,
+      299,
+      301
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      686957,
+      686958,
+      686959,
+      686960,
+      686965
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      4,
+      6,
+      15,
+      20,
+      31,
+      32,
+      38,
+      44,
+      45
+    ],
+    "EntryWeight": 771,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2024-08-08 07:00:00",
+    "TagEndTime": "2024-09-06 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 9878,
+    "DataImpl": {},
+    "ActivityID": 40000195,
+    "AvatarID": 20801,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815934
+    },
+    "SiteList": [
+      302,
+      303,
+      304,
+      305,
+      306
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      687512,
+      687513,
+      687514,
+      687515,
+      687520
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      4,
+      6,
+      15,
+      20,
+      31,
+      32,
+      38,
+      44,
+      45
+    ],
+    "EntryWeight": 781,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2024-09-19 07:00:00",
+    "TagEndTime": "2024-10-18 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 10081,
+    "DataImpl": {},
+    "ActivityID": 40000196,
+    "AvatarID": 20901,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815935
+    },
+    "SiteList": [
+      310,
+      311,
+      312,
+      313,
+      315
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      687754,
+      687755,
+      687756,
+      687757,
+      687762
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      4,
+      6,
+      15,
+      20,
+      31,
+      32,
+      38,
+      44,
+      45
+    ],
+    "EntryWeight": 791,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2024-10-31 07:00:00",
+    "TagEndTime": "2024-11-29 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 10284,
+    "DataImpl": {},
+    "ActivityID": 40000197,
+    "AvatarID": 806,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815936
+    },
+    "SiteList": [
+      316,
+      317,
+      318,
+      319,
+      321
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      688302,
+      688303,
+      688304,
+      688305,
+      688310
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      4,
+      6,
+      15,
+      20,
+      31,
+      32,
+      38,
+      44,
+      45
+    ],
+    "EntryWeight": 801,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2024-12-12 07:00:00",
+    "TagEndTime": "2025-01-10 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 10487,
+    "DataImpl": {},
+    "ActivityID": 40000198,
+    "AvatarID": 115,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815937
+    },
+    "SiteList": [
+      322,
+      323,
+      324,
+      325,
+      326
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      689074,
+      689075,
+      689076,
+      689077,
+      689082
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      4,
+      6,
+      15,
+      20,
+      31,
+      32,
+      38,
+      44,
+      45
+    ],
+    "EntryWeight": 811,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2025-01-23 07:00:00",
+    "TagEndTime": "2025-02-21 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 10690,
+    "DataImpl": {},
+    "ActivityID": 40000199,
+    "AvatarID": 3102,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81815938
+    },
+    "SiteList": [
+      330,
+      331,
+      332,
+      333
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      689852,
+      689853,
+      689854,
+      689855,
+      689860
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      4,
+      6,
+      15,
+      20,
+      31,
+      32,
+      38,
+      44,
+      45
+    ],
+    "EntryWeight": 812,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2025-03-27 07:00:00",
+    "TagEndTime": "2025-04-24 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  },
+  {
+    "_readOffset": 10889,
+    "DataImpl": {},
+    "ActivityID": 40000201,
+    "AvatarID": 20402,
+    "ArtifactPath": "",
+    "TitleName": {
+      "hash": 81816612
+    },
+    "SiteList": [
+      334,
+      335,
+      336,
+      337,
+      338
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      691444,
+      691445,
+      691446,
+      691447,
+      691452
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      4,
+      6,
+      15,
+      20,
+      31,
+      32,
+      38,
+      44,
+      45
+    ],
+    "EntryWeight": 830,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2025-05-29 07:00:00",
+    "TagEndTime": "2025-07-11 11:59:59",
+    "InfoTextMap": {
+      "hash": 0
+    }
+  }
+]
